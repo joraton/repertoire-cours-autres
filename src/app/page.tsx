@@ -51,6 +51,116 @@ const chaptersData: ChapterLink[] = [
     category: "Finance",
     subcategory: "Dietz"
   },
+  // Finance - Cours de Delagarde - Thème 1
+  {
+    id: 8,
+    chapterNumber: "1",
+    title: "Thème 1 - Chapitre 1",
+    url: "https://finance-chap1.vercel.app/",
+    status: 'active' as const,
+    category: "Finance",
+    subcategory: "Cours de Delagarde - Thème 1"
+  },
+  {
+    id: 9,
+    chapterNumber: "2",
+    title: "Thème 1 - Chapitre 2",
+    url: "https://finance-chap2.vercel.app/",
+    status: 'active' as const,
+    category: "Finance",
+    subcategory: "Cours de Delagarde - Thème 1"
+  },
+  {
+    id: 10,
+    chapterNumber: "3",
+    title: "Thème 1 - Chapitre 3",
+    url: "https://finance-chap3.vercel.app/",
+    status: 'active' as const,
+    category: "Finance",
+    subcategory: "Cours de Delagarde - Thème 1"
+  },
+  {
+    id: 11,
+    chapterNumber: "4",
+    title: "Thème 1 - Chapitre 4",
+    url: "https://finance-chap4.vercel.app/",
+    status: 'active' as const,
+    category: "Finance",
+    subcategory: "Cours de Delagarde - Thème 1"
+  },
+  {
+    id: 12,
+    chapterNumber: "5",
+    title: "Thème 1 - Chapitre 5",
+    url: "https://finance-chapitre5.vercel.app/",
+    status: 'active' as const,
+    category: "Finance",
+    subcategory: "Cours de Delagarde - Thème 1"
+  },
+  {
+    id: 13,
+    chapterNumber: "6",
+    title: "Thème 1 - Chapitre 6",
+    url: "https://finance-chapitre6.vercel.app/",
+    status: 'active' as const,
+    category: "Finance",
+    subcategory: "Cours de Delagarde - Thème 1"
+  },
+  {
+    id: 14,
+    chapterNumber: "7",
+    title: "Thème 1 - Chapitre 7",
+    url: "https://finance-chapitre7.vercel.app/",
+    status: 'active' as const,
+    category: "Finance",
+    subcategory: "Cours de Delagarde - Thème 1"
+  },
+  // Finance - Cours de Delagarde - Thème 5
+  {
+    id: 15,
+    chapterNumber: "1",
+    title: "Thème 5 - Chapitre 1",
+    url: "",
+    status: 'inactive' as const,
+    category: "Finance",
+    subcategory: "Cours de Delagarde - Thème 5"
+  },
+  {
+    id: 16,
+    chapterNumber: "2",
+    title: "Thème 5 - Chapitre 2",
+    url: "https://finance-th5-chap2.vercel.app/",
+    status: 'active' as const,
+    category: "Finance",
+    subcategory: "Cours de Delagarde - Thème 5"
+  },
+  {
+    id: 17,
+    chapterNumber: "3",
+    title: "Thème 5 - Chapitre 3",
+    url: "https://finance-th5-chap3.vercel.app/",
+    status: 'active' as const,
+    category: "Finance",
+    subcategory: "Cours de Delagarde - Thème 5"
+  },
+  {
+    id: 18,
+    chapterNumber: "4",
+    title: "Thème 5 - Chapitre 4",
+    url: "",
+    status: 'inactive' as const,
+    category: "Finance",
+    subcategory: "Cours de Delagarde - Thème 5"
+  },
+  {
+    id: 19,
+    chapterNumber: "5",
+    title: "Thème 5 - Chapitre 5",
+    url: "",
+    status: 'coming-soon' as const,
+    category: "Finance",
+    subcategory: "Cours de Delagarde - Thème 5"
+  },
   // Contrôle de Gestion
   {
     id: 5,

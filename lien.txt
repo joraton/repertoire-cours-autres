@@ -1,0 +1,30 @@
+Finance	
+Lewyne	
+Chap 1	https://lewyne-1.vercel.app/
+Chap 2	https://lewyne-2.vercel.app/
+Chap 3	https://lewyne-3.vercel.app/
+	
+Dietz	
+Choix de fi : https://dietz-choixfi.vercel.app/
+	
+Contrôle de gestion
+Chap 1	https://cours-cdg-chap1.vercel.app/
+Chap 2	https://cours-cdg-2.vercel.app/
+Chap 3	https://cours-cdg-chap3.vercel.app/
+
+De lagarde	
+Thème 1	
+Chap 1	https://finance-chap1.vercel.app/
+Chap 2	https://finance-chap2.vercel.app/
+Chap 3	finance-chap3.vercel.app
+Chap 4	finance-chap4.vercel.app
+Chap 5	https://finance-chapitre5.vercel.app/
+Chap 6	https://finance-chapitre6.vercel.app/
+Chap 7	https://finance-chapitre7.vercel.app/
+	
+Thème 5	
+Chap 1	
+Chap 2	https://finance-th5-chap2.vercel.app/
+Chap 3	https://finance-th5-chap3.vercel.app/
+Chap 4	
+Chap 5 	bientot
