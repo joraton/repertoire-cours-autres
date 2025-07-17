@@ -120,8 +120,8 @@ const chaptersData: ChapterLink[] = [
     id: 15,
     chapterNumber: "1",
     title: "Thème 5 - Chapitre 1",
-    url: "",
-    status: 'inactive' as const,
+    url: "https://finance-chapitre1.vercel.app",
+    status: 'active' as const,
     category: "Finance",
     subcategory: "Cours de Delagarde - Thème 5"
   },
@@ -147,8 +147,8 @@ const chaptersData: ChapterLink[] = [
     id: 18,
     chapterNumber: "4",
     title: "Thème 5 - Chapitre 4",
-    url: "",
-    status: 'inactive' as const,
+    url: "https://finance-chapitre4.vercel.app",
+    status: 'active' as const,
     category: "Finance",
     subcategory: "Cours de Delagarde - Thème 5"
   },
@@ -160,6 +160,16 @@ const chaptersData: ChapterLink[] = [
     status: 'coming-soon' as const,
     category: "Finance",
     subcategory: "Cours de Delagarde - Thème 5"
+  },
+  // Fiches
+  {
+    id: 20,
+    chapterNumber: "1",
+    title: "Évaluation",
+    url: "https://fiche-eval-n34u30te5-jorations-projects.vercel.app/",
+    status: 'active' as const,
+    category: "Fiches",
+    subcategory: "Finance"
   },
   // Contrôle de Gestion
   {

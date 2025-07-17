@@ -1,5 +1,5 @@
 'use client';
-import { ExternalLink, Eye, Clock, XCircle, BookOpen, Calculator } from 'lucide-react';
+import { ExternalLink, Eye, Clock, XCircle, BookOpen, Calculator, FileText } from 'lucide-react';
 
 interface ChapterLink {
   id: number;
@@ -35,6 +35,7 @@ export default function ChapterTable({ chapters }: { chapters: ChapterLink[] }) 
     switch (category.toLowerCase()) {
       case 'finance': return <Calculator className="h-6 w-6 text-blue-600" />;
       case 'contrôle de gestion': return <BookOpen className="h-6 w-6 text-emerald-600" />;
+      case 'fiches': return <FileText className="h-6 w-6 text-purple-600" />;
       default: return <BookOpen className="h-6 w-6 text-slate-600" />;
     }
   };
