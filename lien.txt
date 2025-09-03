@@ -1,30 +1,45 @@
 Finance	
 Lewyne	
-Chap 1	https://lewyne-1.vercel.app/
-Chap 2	https://lewyne-2.vercel.app/
-Chap 3	https://lewyne-3.vercel.app/
+Chap 1	https://lewyne-1.vercel.app/ - Évaluation Financière
+Chap 2	https://lewyne-2.vercel.app/ - Les Options Financières
+Chap 3	https://lewyne-3.vercel.app/ - Les Décisions de Financement
 	
 Dietz	
-Choix de fi : https://dietz-choixfi.vercel.app/
+Choix de fi : https://dietz-choixfi.vercel.app/ - Choix de financement
 	
 Contrôle de gestion
-Chap 1	https://cours-cdg-chap1.vercel.app/
-Chap 2	https://cours-cdg-2.vercel.app/
-Chap 3	https://cours-cdg-chap3.vercel.app/
+Chap 1	https://cours-cdg-chap1.vercel.app/ -  concepts fondamentaux du contrôle de gestion :
+Chap 2	https://cours-cdg-2.vercel.app/ - Les outils de pilotage stratégique et budgétaire de l'entreprise
+Chap 3	https://cours-cdg-chap3.vercel.app/ -  Pilotage de la performance
 
 De lagarde	
 Thème 1	
-Chap 1	https://finance-chap1.vercel.app/
-Chap 2	https://finance-chap2.vercel.app/
-Chap 3	finance-chap3.vercel.app
-Chap 4	finance-chap4.vercel.app
-Chap 5	https://finance-chapitre5.vercel.app/
-Chap 6	https://finance-chapitre6.vercel.app/
-Chap 7	https://finance-chapitre7.vercel.app/
+Chap 1	https://finance-chap1.vercel.app/ - La Valeur en Finance
+Chap 2	https://finance-chap2.vercel.app/ - La valeur et le temps : intérêts simples et composés
+Chap 3	https://finance-chap3.vercel.app/ - La Rentabilité et le Risque d'une Action
+Chap 4	https://finance-chap4.vercel.app - La Valeur d'une Action
+Chap 5	https://finance-chapitre5.vercel.app/ - Coût des Capitaux Propres et Coût du Capital
+Chap 6	https://finance-chapitre6.vercel.app/ - Obligation
+Chap 7	https://finance-chapitre7.vercel.app/ - Gestion de patrimoine
 	
 Thème 5	
-Chap 1	
-Chap 2	https://finance-th5-chap2.vercel.app/
-Chap 3	https://finance-th5-chap3.vercel.app/
-Chap 4	
-Chap 5 	bientot
+Chap 1	https://finance-chapitre1.vercel.app - Gestion de tréso de groupe
+Chap 2	https://finance-th5-chap2.vercel.app/ - La Gestion des Risques au Niveau de la Trésorerie
+Chap 3	https://finance-th5-chap3.vercel.app/ - Risques de changes
+Chap 4	https://chapitre-4-theme5-v47u.vercel.app/- Risques de taux
+Chap 5 	bientot - lutte anti-blanchiement jamais tombé 
+
+Thème 6	
+Chap 1	https://finance-th6-chap1.vercel.app/ - Introduction en Bourse (IPO)
+Chap 2	https://financeth6chap2.vercel.app/ - Politique de Dividendes
+Chap 3	https://finance-course-site.vercel.app/ - Les rachats d'actions
+Chap 4	https://financeth6chap4.vercel.app/ - Finance d'Entreprise
+Chap 5 	https://chapitre-5-theme6-oj9q.vercel.app/ - Fusions-Acquisitions
+Chap 6	https://chapitre-6-theme6.vercel.app/ - Les Offres Publiques d'Achat et d'Échange
+Chap 7	https://chapitre-7-theme6.vercel.app/ - Le Leveraged Buy Out (LBO)
+
+
+Fiche finance : 
+
+Evaluation : https://fiche-eval.vercel.app/ - Pour revoir les 3 méthodes d'évaluations en détail
+
