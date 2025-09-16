@@ -6,6 +6,7 @@ Chap 3	https://lewyne-3.vercel.app/ - Les Décisions de Financement
 	
 Dietz	
 Choix de fi : https://dietz-choixfi.vercel.app/ - Choix de financement
+https://diagnostic-financier-ncy0vnfja-jorations-projects.vercel.app/ - diagnostic financier
 	
 Contrôle de gestion
 Chap 1	https://cours-cdg-chap1.vercel.app/ -  concepts fondamentaux du contrôle de gestion :

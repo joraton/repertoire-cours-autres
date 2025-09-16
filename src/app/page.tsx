@@ -51,6 +51,15 @@ const chaptersData: ChapterLink[] = [
     category: "Finance",
     subcategory: "Dietz"
   },
+  {
+    id: 28,
+    chapterNumber: "2",
+    title: "diagnostic financier",
+    url: "https://diagnostic-financier-ncy0vnfja-jorations-projects.vercel.app/",
+    status: 'active' as const,
+    category: "Finance",
+    subcategory: "Dietz"
+  },
   // Finance - Cours de Delagarde - Thème 1
   {
     id: 8,
